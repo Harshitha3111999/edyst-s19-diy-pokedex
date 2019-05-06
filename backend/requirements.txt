@@ -1,4 +1,4 @@
 requires:
-    python installation
+    python installation-3.7
     flask 
-    postman for json requests and responses
+    postman for json requests and responses-win64-7.0.9 
